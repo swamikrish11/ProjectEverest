@@ -3,6 +3,7 @@ First Project to test git
 
 - First edit into the main section
 - Second edit
+- edit by Clemente
 
 Without bullet, just writing text to see how it is visible.
 
