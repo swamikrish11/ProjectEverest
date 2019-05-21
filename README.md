@@ -1,6 +1,11 @@
 # ProjectEverest
 First Project to test git
 
+- First edit into the main section
+- Second edit
+
+Without bullet, just writing text to see how it is visible.
+
 # This is title number 2
 This is my added comment to change the content. 
 
